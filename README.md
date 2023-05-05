@@ -1,13 +1,5 @@
 ### tbh nothing interesting here...
 
-Ai no netabare "wakare" ppoi na
-
-Jinsei no netabare "shinu" ppoi na
-
-Subete rikai shite wazuratta
-
-Mujaki ni odotte itakatta jinsei
-
 My current stack:
 - HTML
 - CSS
