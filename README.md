@@ -1,7 +1,7 @@
 Hi 👋 My name is Maxim Moor
 ===========================
 
-Backend developer
+Want to become backend developer
 -----------------
 
 * 🌍  I'm based in Omsk, Russia
