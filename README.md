@@ -6,7 +6,7 @@ Want to become backend developer
 
 * 🌍  I'm based in Omsk, Russia
 * 🧠  I'm learning NestJS and TypeScript
-* 💼  I'm study at the OmSTU Computer science and engineering at 2 course
+* 💼  I'm study at the OmSTU Computer science and engineering at 3 course
 
 ### Skills
 
