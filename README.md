@@ -1,12 +1,9 @@
 Hi 👋 My name is Maxim Moor
 ===========================
 
-Want to become backend developer
------------------
-
-* 🌍  I'm based in Omsk, Russia
-* 🧠  I'm learning NestJS and TypeScript
-* 💼  I'm study at the OmSTU Computer science and engineering at 3 course
+*  Trying to become TS backend dev or something, it's complicated
+*  I adore indie gamedev and dream of creating my own game someday
+*  I'm study at the OmSTU Computer science and engineering at 3 course
 
 ### Skills
 
