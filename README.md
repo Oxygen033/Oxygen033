@@ -1,9 +1,8 @@
 Hi 👋 My name is Maxim Moor
 ===========================
 
-*  Trying to become TS backend dev or something, it's complicated
-*  I adore indie gamedev and dream of creating my own game someday
-*  I'm study at the OmSTU Computer science and engineering at 3 course
+I trying to become TS backend dev or something, adore indie gamedev, study at the OmSTU Computer science and engineering
+
 
 ### Skills
 
