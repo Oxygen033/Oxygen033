@@ -1,6 +1,3 @@
-Hi 👋 My name is Max
-===========================
-
 I trying to become TS backend dev or something, adore indie gamedev, study at the OmSTU Computer science and engineering
 
 
